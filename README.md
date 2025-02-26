@@ -1,1 +1,1 @@
-# yanthraa-ai-website
+YanthraaAI
